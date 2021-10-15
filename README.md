@@ -1,1 +1,1 @@
-# Fake_News_detection
+# Scientific_News_detection
